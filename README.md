@@ -1,6 +1,6 @@
 # Recipe Search App
 
-This project is a **Recipe Search Application** built with React and Node.js. It allows users to search for recipes by name, view detailed recipe information, and save their favorite recipes. The application fetches recipe data from the **TheMealDB** API.
+This project is a **Recipe Search Application** built with React and Node.js. It allows users to search for recipes by name, view detailed recipe information, and save their Favorite recipes. The application fetches recipe data from the **TheMealDB** API.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ This project is a **Recipe Search Application** built with React and Node.js. It
 
 - **Search Recipes**: Search for recipes by name using the search bar.
 - **View Recipe Details**: Click on a recipe from the search results to view detailed information including instructions and origin.
-- **Favorites**: Save your favorite recipes for easy access later.
+- **Favorites**: Save your Favorite recipes for easy access later.
 
 ## Technologies
 
@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Aditya-Pawar-1/recipe-search-app.git
+git clone https://github.com/Aditya-Pawar-1/Recipe-Finder-App.git
 cd recipe-search-app
 ```
 
@@ -64,7 +64,7 @@ This will start the app at `http://localhost:5173`.
 
 1. **Search for Recipes**: Enter a recipe name in the search bar and click the search icon.
 2. **View Recipe Details**: Click on a recipe from the search results to view detailed information.
-3. **Favorites**: Save your favorite recipes for easy access later (if implemented).
+3. **Favorites**: Save your Favorite recipes for easy access later (if implemented).
 
 ## Folder Structure
 
@@ -91,13 +91,14 @@ recipe-search-app/
 
 ## website-images
 Home Page
-![Home Page]('./public/webImage/main.png')
+![Home Page](https://github.com/user-attachments/assets/48dff7c8-604b-4117-8043-3319717dbaf6)
 
 Recipe Details Page
-![Recipe Details Page]('./public/webImage/details.png')
+![Recipe Details Page](https://github.com/user-attachments/assets/3e2a69b8-76fa-4c38-8cf1-961107e5b7b7)
 
 Favorite Recipes Page
-![Favorite Recipes Page]('./public/webImage/favorites.png')
+![Favorite Recipes Page](https://github.com/user-attachments/assets/405d0247-12b0-4012-a1a7-90464c427086)
+
 
 ## API
 
