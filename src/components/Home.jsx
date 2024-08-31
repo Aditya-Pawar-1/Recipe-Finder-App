@@ -1,7 +1,7 @@
 import React, { useContext,eff } from 'react'
 import Search from './Search'
 import { MdFavorite } from "react-icons/md";
-import logo from '../assets/images/pexels-ella-olsson-572949-1640777.jpg'
+import logo from '../../public/images/Home.jpg'
 import { useNavigate } from 'react-router-dom';
 import RecipeContext from '../Context/RecipeContext';
 
