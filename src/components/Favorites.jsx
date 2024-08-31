@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from 'react';
 import RecipeContext from '../Context/RecipeContext';
 import { useNavigate } from 'react-router-dom';
 import FavoriteCard from './FavoriteCard';
-import bg from '../../public/images/Home.jpg';
+import bg from '/src/Home.jpg';
 
 const Favorites = () => {
   const navigate = useNavigate();

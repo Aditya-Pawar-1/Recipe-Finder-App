@@ -5,7 +5,7 @@ import axios from 'axios';
 import Loading from './Loading';
 import Search from './Search';
 import { MdFavorite } from "react-icons/md";
-import logo from '../../public/images/Home.jpg';
+import logo from '/src/Home.jpg';
 
 const RecipeDetails = () => {
   const [recipe, setRecipe] = useState(null);
